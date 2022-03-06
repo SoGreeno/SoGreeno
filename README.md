@@ -1,31 +1,15 @@
-*zakłada suchawki*
-"HELO JOR KOMPJUTER HAS WAJRUS SAAR"
+Hello 👋
 
--SoGreeno w komputerownii szkolnej
+I'm SoGreeno
 
+I like web developing, coding, and other stuff idk
 
-"Ale z ciebie hacker, zgaduje że nawet nie umiesz w terminalu napisać cd"
+### Enviroments
 
--SoGreeno do BrajanMina, który robi dir /s
+![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
+![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
+![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 
-
-
-### Wstęp
-
-Cześć 👋
-Tu SoGreeno
-
-Jestem Web developerem, programistą na średnim poziomie
-i hackerem dla mojej klasy
-
-Osobiście uwielbiam języki programowania jak:
-- Python
-- Ruby
-- Go
-- C#
-
-Jestem też wynalazcą czy tam właścicielem FeverStuff, czyli poprostu
-rzeczy ~~które dają ci gorączkę~~ które są zrobione dla zabawy, nauki itp.
-
-### kontakt
-no kontakt for u lol
+### h
+h
